@@ -4,7 +4,7 @@
   
   <summary>Ptilopsis</summary>
 
-```txt
+  <font size="1">
                                                                                                                                                          
                                                                                                                                                          
                                                                                                                                                          
@@ -81,10 +81,8 @@
                                                                                                                                                          
                                                                                                                                                          
                                                                                                                                                          
-                                                                                                                                                         
-```
-
-</details>
+                                                                                                                                                         </div>
+</font>
 
 <!--
 **sunist-c/sunist-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
