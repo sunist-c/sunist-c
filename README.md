@@ -3,7 +3,7 @@
 <details open>
   <summary>Repo Statistic</summary>
   
-  [![Sunist's Repo Statistic](https://github-readme-stats.vercel.app/api?username=sunist-c&show_icons=true&theme=graywhite&hide_rank=true&custom_title=SunistC%27s%20摸鱼统计&hide_border=true&cache_seconds=86400)](https://github.com/sunist-c)
+  [![Sunist's Repo Statistic](https://github-readme-stats.vercel.app/api?username=sunist-c&theme=graywhite&hide_rank=true&custom_title=𝕊𝕦𝕟𝕚𝕤𝕥ℂ%27s%20摸鱼统计&hide_border=true&cache_seconds=86400)](https://github.com/sunist-c)
 
 <details open>
 <summary>Code times</summary>
