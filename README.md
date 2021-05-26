@@ -1,6 +1,11 @@
 ### Hi there 👋
 
 <details open>
+<summary>Code times</summary>
+
+[![SunistC's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SunistC&layout=compact)](https://github.com/sunist-c)
+
+<details open>
   
   <summary>Ptilopsis</summary>
 
