@@ -6,6 +6,12 @@
 
 ![WakaTime Status](https://wakatime.com/share/@SunistC/6ffb150f-31a0-4a89-8394-0100c96c1b1b.svg)
 
+### Coding Time Echarts
+
+> From [WakaTime.com](https://wakatime.com)
+
+![WakaTime Echarts](https://wakatime.com/share/@SunistC/d021873a-5109-446d-8227-bb07d414807f.svg)
+
 ### GitHub Report
 
 > From [Metrics](metrics.lecoq.io)
