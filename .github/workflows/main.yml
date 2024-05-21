@@ -35,7 +35,7 @@ jobs:
           plugin_lines_sections: base
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
-          plugin_pagespeed_url: www.sunist.dev
+          plugin_pagespeed_url: .user.website
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 28
