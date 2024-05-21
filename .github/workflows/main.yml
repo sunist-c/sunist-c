@@ -33,9 +33,6 @@ jobs:
           plugin_lines_history_limit: 3
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-          plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes
-          plugin_pagespeed_url: "https://www.sunist.dev"
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 28
