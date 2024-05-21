@@ -4,7 +4,7 @@
 
 > From [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
-![github-readme-stats](https://github-readme-stats.vercel.app/api?username=sunist-c&show_icons=true&theme=tokyonight)
+![github-readme-stats](https://github-readme-stats.vercel.app/api?username=sunist-c&show_icons=true&theme=dark)
 
 ### Coding Time Table
 
